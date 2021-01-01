@@ -646,6 +646,7 @@ Response::
 	Content-Type: application/json
 
 	{"mode":"movie","code":1000}
+	{"mode":"off","shop_mode":0,"code":1000} with FW 2.5.9 
 
 Set LED operation mode
 ----------------------
